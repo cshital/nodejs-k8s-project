@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: shital37/nodejs-app:latest 
+        image: shital37/nodejs-app:latest
         ports:
         - containerPort: 3000
         env:
